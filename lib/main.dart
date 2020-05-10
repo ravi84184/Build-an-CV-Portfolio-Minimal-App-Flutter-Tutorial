@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
@@ -27,6 +28,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+final GlobalKey<ScaffoldState> scaffoldkey = new GlobalKey<ScaffoldState>();
 
 class MyHomePage extends StatefulWidget {
   @override
@@ -55,6 +57,7 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
   Widget build(BuildContext context) {
     double iconSize = 20.0;
     return Scaffold(
+      key:scaffoldkey,
       backgroundColor: backgroundLight,
       body: Container(
         margin: EdgeInsets.only(top: 30),
