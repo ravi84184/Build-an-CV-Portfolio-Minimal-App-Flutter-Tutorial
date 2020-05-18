@@ -1,16 +1,11 @@
-# flutterprofile
+# Flutter App - CV Portfolio App - Flutter UI
 
-A new Flutter application.
+## [Watch it on YouTube Part:1](https://youtu.be/cd-RzMCVqzA)
 
-## Getting Started
+## [Watch it on YouTube Part:2](https://youtu.be/ba54zrWNSTw)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### CV Portfolio App flutter Final UI
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App UI](https://i9.ytimg.com/vi/cd-RzMCVqzA/hqdefault.jpg?time=1589808320952&sqp=CKyZivYF&rs=AOn4CLBkSEO8Kd2ej5mBSgZNFq5NoS9wXw)
