@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "307546348166",
+    "firebase_url": "https://live-on-play-store.firebaseio.com",
+    "project_id": "live-on-play-store",
+    "storage_bucket": "live-on-play-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307546348166:android:34807e68f527bfef7fcf07",
+        "android_client_info": {
+          "package_name": "com.devsnik.bhakti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307546348166-qiguhrbhpqae6od9jjicg8ghrrhv714j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devsnik.bhakti",
+            "certificate_hash": "584c381853a4b19062b5d2003d2817d4a687b636"
+          }
+        },
+        {
+          "client_id": "307546348166-b9i0nepqrsu02oaobvb5biljj4ddv5eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMrLVCwQeBJ6ljnGSVZxcU1BinecmqCqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307546348166-b9i0nepqrsu02oaobvb5biljj4ddv5eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307546348166:android:c2e4944a2f06559b7fcf07",
+        "android_client_info": {
+          "package_name": "com.devsnik.profile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307546348166-b9i0nepqrsu02oaobvb5biljj4ddv5eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMrLVCwQeBJ6ljnGSVZxcU1BinecmqCqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307546348166-b9i0nepqrsu02oaobvb5biljj4ddv5eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307546348166:android:bf0a689a821e94a97fcf07",
+        "android_client_info": {
+          "package_name": "com.videodownloader.whatsappstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307546348166-b9i0nepqrsu02oaobvb5biljj4ddv5eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMrLVCwQeBJ6ljnGSVZxcU1BinecmqCqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307546348166-b9i0nepqrsu02oaobvb5biljj4ddv5eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

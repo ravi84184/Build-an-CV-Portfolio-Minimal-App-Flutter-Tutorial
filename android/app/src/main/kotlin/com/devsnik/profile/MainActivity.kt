@@ -1,4 +1,4 @@
-package com.devsnik.flutterprofile
+package com.devsnik.profile
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -4,7 +4,9 @@ import 'package:flutterprofile/utils/common_string.dart';
 import 'package:flutterprofile/utils/text_style.dart';
 
 class TeamPage extends StatelessWidget {
-  var descriptions = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";
+  var descriptions =
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";
+
   @override
   Widget build(BuildContext context) {
     return SingleChildScrollView(
@@ -39,7 +41,7 @@ class TeamPage extends StatelessWidget {
 
   Widget _itemWidget(name, image, description) {
     return Container(
-      margin: EdgeInsets.only(top:10),
+      margin: EdgeInsets.only(top: 10),
       padding: EdgeInsets.all(10),
       decoration: BoxDecoration(
         borderRadius: BorderRadius.all(Radius.circular(10)),
